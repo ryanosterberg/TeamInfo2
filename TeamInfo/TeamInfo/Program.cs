@@ -15,7 +15,7 @@ namespace TeamInfo
         //And Delete a part of another teammate's code
         static void Main(string[] args)
         {
-            Console.WriteLine("Adam Miller, Brookfield Central, Idk why would I want to remember that.");
+            Console.WriteLine("I want a new car for graduation");
             Console.WriteLine("Andrei Tarakanov, Brookfield Central, Already opened food and I didnt know who opened it");
             Console.WriteLine("Riley Young, Rufus King, I don't know");
             Console.WriteLine("Ruilin Yan, Eisenhower, Some bad gift");
