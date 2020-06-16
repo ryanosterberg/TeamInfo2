@@ -17,7 +17,7 @@ namespace TeamInfo
         {
             Console.WriteLine("Adam Miller, Brookfield Central, Idk why would I want to remember that.");
             Console.WriteLine("Andrei Tarakanov, Brookfield Central, Already opened food and I didnt know who opened it");
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Riley Young, Rufus King, I don't know");
             Console.WriteLine("Hello World");
             Console.ReadLine();
         }
